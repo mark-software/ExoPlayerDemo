@@ -108,8 +108,7 @@ import java.util.Locale;
   };
 
   public static final Sample[] HLS = new Sample[] {
-    new Sample("Test 2!","http://blip.tv/file/get/EpicRapBattles-DonaldTrumpVsEbeneezerScroogeEpicRapBattlesOfHistoryS874.m4v"
-        /*"http://a-hls.blip.tv/07/18/7396/Polaristest-RYANGOSLINGINTHEHAUNTEDMANSION-TheDailyByte659.m3u8"*/, DemoUtil.TYPE_SS),
+    new Sample("Test 2!","http://a-hls.blip.tv/07/18/7396/Polaristest-RYANGOSLINGINTHEHAUNTEDMANSION-TheDailyByte659.m3u8", DemoUtil.TYPE_SS),
     new Sample("Apple master playlist advanced",
         "https://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/"
         + "bipbop_16x9_variant.m3u8", DemoUtil.TYPE_HLS),
